@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gradle.demo.HelloServletTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-07-17T17:27:25" hostname="devops" time="1.014">
+  <properties/>
+  <testcase name="doPostWithoutName" classname="org.gradle.demo.HelloServletTest" time="1.006"/>
+  <testcase name="doGet" classname="org.gradle.demo.HelloServletTest" time="0.001"/>
+  <testcase name="doPostWithName" classname="org.gradle.demo.HelloServletTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
